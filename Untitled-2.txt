@@ -1,0 +1,17 @@
+把網頁上線:
+    1.把家裡的電腦接上網路，安裝伺服器軟體，二十四小時開機，學習伺服器管理。
+    2.Amazon Web Sevrice (AWS) 、Google Cloud Platform (GCP)
+    3.簡化版的雲端服務 (GitHub Pages)
+    
+
+主網址:https://cjy88.github.io/test/
+
+https://cjy88.github.io/test/檔案名稱
+https://cjy88.github.io/test/about.png
+https://cjy88.github.io/test/home.html
+https://cjy88.github.io/test/css.html
+https://cjy88.github.io/test/README.md
+
+https://cjy88.github.io/test/
+自動使用
+https://cjy88.github.io/test/index.html
